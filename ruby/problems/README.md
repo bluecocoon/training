@@ -2,4 +2,4 @@
 
 ###Book: Well Grounded Ruby
 
-- __Chap 1 & 2:__ [Object, Method, Local Variable](object-method-localvariable/)
+- __P1 (Chap 1 & 2):__ [Object, Method, Local Variable](object-method-localvariable/)
