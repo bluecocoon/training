@@ -10,10 +10,10 @@ Also name the circle based on the following condition:
 
 Print the entire details of Circle for eg: 
 ```
-    Name: Big Circle
-    Radius: 75
-    Perimeter: 471
-    Area: 17662.5
+Name: Big Circle
+Radius: 75
+Perimeter: 471
+Area: 17662.5
 ```
 
 
